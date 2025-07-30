@@ -1,7 +1,7 @@
 {
   "@context": {
     "@version": 1.1,
-    "@protected": true,
+    "@protected": false,
 
     "name": "http://schema.org/name",
     "description": "http://schema.org/description",
@@ -37,7 +37,7 @@
         "schema": "http://schema.org/",
         "xsd": "http://www.w3.org/2001/XMLSchema#",
 
-        "holder": "schema:familyName",
+        "holder": "schema:holder",
         "birthCountry": "ctzn:birthCountry",
         "birthDate": {"@id": "schema:birthDate", "@type": "xsd:dateTime"},
         "commuterClassification": "ctzn:commuterClassification",
