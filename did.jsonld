@@ -36,7 +36,7 @@
         "ctzn": "https://w3id.org/citizenship#",
         "schema": "http://schema.org/",
         "xsd": "http://www.w3.org/2001/XMLSchema#",
-        "holder": "schema:holder",
+        "name": "schema:name",
         "birthCountry": "ctzn:birthCountry",
         "birthDate": {"@id": "schema:birthDate", "@type": "xsd:dateTime"},
         "commuterClassification": "ctzn:commuterClassification",
