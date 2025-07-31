@@ -13,7 +13,6 @@
 
 		"nirc": "http://schema.org/identifier",
 		"templateId": "http://schema.org/identifier",
-		"holder": "https://www.w3.org/2018/credentials/#/holder",
 
 		"PermanentResidentCard": {
 			"@id": "https://w3id.org/citizenship#PermanentResidentCard",
