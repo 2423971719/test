@@ -6,6 +6,7 @@
     "name": "http://schema.org/name",
     "description": "http://schema.org/description",
     "nirc": "http://schema.org/identifier",
+    "templateId": "http://schema.org/identifier",
     "image": {"@id": "http://schema.org/image", "@type": "@id"},
     
     "PermanentResidentCard": {
