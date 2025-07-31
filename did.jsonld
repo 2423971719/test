@@ -9,6 +9,7 @@
       "templateId":"http://schema.org/identifier",
       "email": "https://schema.org/email",
       "mobileno": "https://schema.org/telephone",
+      "isOver18": "https://schema.org/publicAccess",
       "image":{
          "@id":"http://schema.org/image",
          "@type":"@id"
