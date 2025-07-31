@@ -7,6 +7,7 @@
       "identifier":"http://schema.org/identifier",
       "nirc":"http://schema.org/identifier",
       "templateId":"http://schema.org/identifier",
+      "email": "https://schema.org/email",
       "image":{
          "@id":"http://schema.org/image",
          "@type":"@id"
