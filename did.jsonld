@@ -8,6 +8,7 @@
       "nirc":"http://schema.org/identifier",
       "templateId":"http://schema.org/identifier",
       "email": "https://schema.org/email",
+      "mobileno": "https://schema.org/telephone",
       "image":{
          "@id":"http://schema.org/image",
          "@type":"@id"
